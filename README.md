@@ -6,6 +6,7 @@ This planet pack is set in the far future where kerbals have migrated towards a 
 
 Since this is a system replacer, it is NOT compatible with other system replacers such as JNSQ, Beyond Home, Homeswitches, etc...
 As well as other visual mods, Celestial Harmony has its own visuals.
+KSC Switcher is also an incompatibility.
 
 ### **Dependencies!!! :**
 
