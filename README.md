@@ -12,7 +12,7 @@ KSC Switcher is also an incompatibility.
 
 - [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 - [VertexHeightOblateAdvanced by Lt_Duckweed](https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/)
-- [Kopernicus fork from Ballisticfox](https://github.com/ballisticfox/Kopernicus/releases) (extract with winRAR or 7zip)
+- [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 
 ### **Compatibilities :**
 - [EnvironmentalVisualEnhancements](https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) (Supports volumetric, do NOT install StockVolumetricCLouds, the mod already has its own configs and textures)
