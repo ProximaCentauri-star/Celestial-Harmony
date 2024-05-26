@@ -15,7 +15,7 @@ KSC Switcher is also an incompatibility.
 - [Kopernicus fork from Ballisticfox](https://github.com/Kopernicus/Kopernicus/releases) (extract with winRAR or 7zip)
 
 ### **Compatibilities :**
-- [EnvironmentalVisualEnhancements](https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) (Supports volumetric, do NOT install StockScattererConfigs and StockVolumetricCLouds, the mod already has its own configs and textures)
+- [EnvironmentalVisualEnhancements](https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) (Supports volumetric, do NOT install StockVolumetricCLouds, the mod already has its own configs and textures)
 - [Scatterer](https://forum.kerbalspaceprogram.com/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/)
 - [Parallax](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax_StockTextures is needed)
 - Planet packs that do not replace the star system
