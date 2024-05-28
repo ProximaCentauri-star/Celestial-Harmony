@@ -8,6 +8,8 @@ Since this is a system replacer, it is NOT compatible with other system replacer
 As well as other visual mods, Celestial Harmony has its own visuals.
 KSC Switcher is also an incompatibility.
 
+Official discord server link : https://discord.gg/rGF5Ge9y7f
+
 ### **Dependencies!!! :**
 
 - [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
