@@ -15,6 +15,7 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 - [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 - [VertexHeightOblateAdvanced by Lt_Duckweed](https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
+- [KopernicusExpansion](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/)
 
 ### **Compatible with :**
 - [EnvironmentalVisualEnhancements](https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) (Supports volumetric, do NOT install StockVolumetricCLouds, the mod already has its own configs and textures)
