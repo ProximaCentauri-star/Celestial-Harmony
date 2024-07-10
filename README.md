@@ -25,3 +25,6 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 
 System map containing major objects :
 ![HarmoniaSystem](https://github.com/ProximaCentauri-star/Celestial-Harmony/assets/26027991/eb42b4e2-8ec7-4052-9a48-ec3407485f08)
+
+### **Licensing :**
+Celestial Harmony is licensed by **All Rights Reserved**
