@@ -24,8 +24,8 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 - [Parallax](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Note: Parallax_StockTextures is needed)
 - Planet packs that do not replace the stock system
 
-System map containing major objects :
-![HarmoniaSystem](https://github.com/ProximaCentauri-star/Celestial-Harmony/assets/26027991/eb42b4e2-8ec7-4052-9a48-ec3407485f08)
+System map :
+![HarmoniaSystem](https://cdn.discordapp.com/attachments/1139755994646319184/1290864859264581652/System_Map.png?ex=66fe0315&is=66fcb195&hm=a79f7f7d2c15649ecd3fe8046a4135f0720eb5ca45177007d09f6a9aa7b6bfbf&)
 
 ### **Licensing :**
 **All Rights Reserved by ProximaCentauri**
