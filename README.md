@@ -15,7 +15,8 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 - [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 - [VertexHeightOblateAdvanced by Lt_Duckweed](https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
-- [KopernicusExpansion](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/)
+- [Duckweed's easy emissives](https://forum.kerbalspaceprogram.com/topic/225111-1125-kopernicus-vertexcolormapemissive-100-easy-emissives/#comment-4408664)
+- From October 1st 2024, Kopernicus Expansion is no longer needed for versions 0.9 and above
 
 ### **Compatible with :**
 - [EnvironmentalVisualEnhancements](https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) (Supports volumetric clouds, do **NOT** install StockVolumetricClouds, Celestial Harmony has its own configs and textures)
