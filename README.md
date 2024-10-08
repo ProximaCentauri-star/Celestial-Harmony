@@ -20,7 +20,7 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 
 ### **Compatible with :**
 - [EnvironmentalVisualEnhancements](https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) (Supports volumetric clouds, do **NOT** install StockVolumetricClouds, Celestial Harmony has its own configs and textures)
-- [Scatterer](https://forum.kerbalspaceprogram.com/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/)
+- [Scatterer](https://forum.kerbalspaceprogram.com/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/). Note : If your scatterer download has a *StockVolumetricConfigs* folder, it will be required, otherwise no additional steps will be needed.
 - [Parallax](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Note: Parallax_StockTextures is needed)
 - Planet packs that do not replace the stock system
 
