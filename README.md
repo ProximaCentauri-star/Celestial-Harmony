@@ -12,10 +12,10 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 
 ### **Dependencies (WILL NOT WORK WITHOUT THESE) :**
 
-- [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
-- [VertexHeightOblateAdvanced by Lt_Duckweed](https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
-- [Duckweed's easy emissives](https://forum.kerbalspaceprogram.com/topic/225111-1125-kopernicus-vertexcolormapemissive-100-easy-emissives/#comment-4408664)
+- [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/) (Bundled)
+- [VertexHeightOblateAdvanced by Lt_Duckweed](https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/) (Bundled)
+- [Duckweed's easy emissives](https://forum.kerbalspaceprogram.com/topic/225111-1125-kopernicus-vertexcolormapemissive-100-easy-emissives/#comment-4408664) (Bundled)
 - From October 1st 2024, Kopernicus Expansion is no longer needed for versions 0.9 and above
 
 ### **Compatible with :**
