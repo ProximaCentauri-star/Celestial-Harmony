@@ -25,7 +25,7 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 - Planet packs that do not replace the stock system
 
 System map :
-![HarmoniaSystem](https://cdn.discordapp.com/attachments/1139755994646319184/1290864859264581652/System_Map.png?ex=66fe0315&is=66fcb195&hm=a79f7f7d2c15649ecd3fe8046a4135f0720eb5ca45177007d09f6a9aa7b6bfbf&)
+![System_Map](https://github.com/user-attachments/assets/fc5891e2-2e80-460d-917f-8e3a67ee5a99)
 
 ### **Licensing :**
 **All Rights Reserved by ProximaCentauri**
