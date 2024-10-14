@@ -20,11 +20,11 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 
 ### **Compatible with :**
 - [EnvironmentalVisualEnhancements](https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/)
-  - Supports volumetric clouds, do **NOT** install StockVolumetricClouds, Celestial Harmony has its own configs and textures
+  - Supports volumetric clouds, do **NOT** install `StockVolumetricClouds`, Celestial Harmony has its own configs and textures
 - [Scatterer](https://forum.kerbalspaceprogram.com/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/).
-  - If your scatterer download has a *StockScattererConfigs* folder, do not remove it
+  - If your scatterer download has a `StockScattererConfigs` folder, do not remove it
 - [Parallax](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/)
-  - Parallax_StockTextures is needed
+  - `Parallax_StockTextures` is needed
 - [Kcalbeloh System](https://forum.kerbalspaceprogram.com/topic/203753-1125-kcalbeloh-system-planet-pack-v118-a-journey-to-a-black-hole-aug-31-2024/)
   - WH3141-A (the wormhole on our side) will orbit around Aklarka. 
 - Planet packs that do not replace the stock system
