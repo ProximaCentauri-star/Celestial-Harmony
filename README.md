@@ -33,10 +33,11 @@ System map :
 ![System_Map](https://github.com/user-attachments/assets/fc5891e2-2e80-460d-917f-8e3a67ee5a99)
 
 Special Thanks for the loading screens, tips, science defs and localizations :
-DIY Labs
-Whim
-Soyuz
-credit (for support)
+
+- DIY Labs
+- Whim
+- Soyuz
+- credit (for support)
 
 ### **Licensing :**
 **All Rights Reserved by ProximaCentauri**
