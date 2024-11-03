@@ -1,4 +1,4 @@
-# Celestial Harmony
+![CH](https://github.com/user-attachments/assets/b72893bc-1e5f-47b0-847a-7cee5751b068)
 Official GitHub page to download the Celestial Harmony planet pack and its updates.
 
 Celestial Harmony is a system replacer for KSP, featuring a brand new star system. Will later feature an additional star system.
@@ -10,14 +10,16 @@ KSC Switcher is not supported.
 
 Official Discord server link : https://discord.gg/rGF5Ge9y7f
 
-### **Dependencies (WILL NOT WORK WITHOUT THESE) :**
-
+![Dependencies](https://github.com/user-attachments/assets/4a0d1520-6ff9-469b-a142-0e4d4acf81e9)
+### **(WILL NOT WORK WITHOUT THESE) :**
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/) (Bundled)
 - [VertexHeightOblateAdvanced by Lt_Duckweed](https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/) (Bundled)
 - [Duckweed's easy emissives](https://forum.kerbalspaceprogram.com/topic/225111-1125-kopernicus-vertexcolormapemissive-100-easy-emissives/#comment-4408664) (Bundled)
 - From October 1st 2024, Kopernicus Expansion is no longer needed for versions 0.9 and above
 
+
+![Comp](https://github.com/user-attachments/assets/c74d790d-3cf8-435e-98c4-8ce3f71abda4)
 ### **Compatible with :**
 - [EnvironmentalVisualEnhancements](https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/)
   - Supports volumetric clouds, do **NOT** install `StockVolumetricClouds`, Celestial Harmony has its own configs and textures
