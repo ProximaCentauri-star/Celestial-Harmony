@@ -43,3 +43,4 @@ Special Thanks for the loading screens, tips, science defs and localizations :
 
 ### **Licensing :**
 **All Rights Reserved by ProximaCentauri**
+(To be changed on 1.0 release)
