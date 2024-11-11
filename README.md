@@ -41,6 +41,8 @@ Special Thanks for the loading screens, tips, science defs and localizations :
 - Soyuz
 - credit (for support)
 
+Thanks to Nerdy Boy for the Community Ressource Pack and Kerbalism configs !!
+
 ### **Licensing :**
 **All Rights Reserved by ProximaCentauri**
 (To be changed on 1.0 release)
