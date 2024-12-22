@@ -10,7 +10,8 @@ KSC Switcher is not supported.
 
 Official Discord server link : https://discord.gg/rGF5Ge9y7f
 
-![Dependencies](https://imgur.com/efQj827)
+![image](https://github.com/user-attachments/assets/52922ba7-e039-44df-9263-6a962a1dce7b)
+
 ### **(WILL NOT WORK WITHOUT THESE) :**
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/) (Bundled)
