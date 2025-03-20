@@ -48,4 +48,3 @@ Thanks to Nerdy Boy for the Community Ressource Pack and Kerbalism configs !!
    - [My patreon](https://www.patreon.com/_ProximaCentauri_) (donations only)
 ### **Licensing :**
 **All Rights Reserved by ProximaCentauri**
-(To be changed on 1.0 release)
