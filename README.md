@@ -41,6 +41,7 @@ Special Thanks for the loading screens, tips, science defs and localizations :
 - Whim
 - Soyuz
 - credit (for support)
+- vanilla (for some loading screens)
 
 Thanks to Nerdy Boy for the Community Ressource Pack and Kerbalism configs !!
 
