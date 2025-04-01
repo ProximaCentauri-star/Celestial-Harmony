@@ -2,7 +2,7 @@
 Official GitHub page to download the Celestial Harmony planet pack and its updates.
 
 Celestial Harmony is a system replacer for KSP, featuring a brand new star system. Will later feature an additional star system.
-This planet pack is set in the far future (after Beyond Home) where kerbals have migrated towards a luxurious binary-habitable system.
+This planet pack is set in the far future (after Beyond Home) where kerbals have migrated towards a luxurious binary-habitable system. (Yes, CH is a sequel to Beyond Home)
 
 Since Celestial Harmony is a system replacer, it is NOT compatible with other system replacers such as JNSQ, Beyond Home, Homeswitches, etc.
 Celestial Harmony has its own configs for certain visual mods. See below for more details.
