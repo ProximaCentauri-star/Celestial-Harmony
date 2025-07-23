@@ -33,7 +33,9 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 - Planet packs that do not replace the stock system
 
 System map :
-![System_Map](https://i.imgur.com/QdBdBwB.png)
+![System_Map](https://i.imgur.com/2vCfJpc.png)
+
+
 
 Special Thanks for the loading screens, tips, science defs and localizations :
 
