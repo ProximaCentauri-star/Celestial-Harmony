@@ -33,7 +33,7 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 - Planet packs that do not replace the stock system
 
 System map :
-![System_Map](https://github.com/user-attachments/assets/fc5891e2-2e80-460d-917f-8e3a67ee5a99)
+![System_Map](https://i.imgur.com/QdBdBwB.png)
 
 Special Thanks for the loading screens, tips, science defs and localizations :
 
@@ -42,6 +42,7 @@ Special Thanks for the loading screens, tips, science defs and localizations :
 - Soyuz
 - credit (for support)
 - vanilla (for some loading screens)
+- Omni Man for the System map
 
 Thanks to Nerdy Boy for the Community Ressource Pack and Kerbalism configs !!
 
