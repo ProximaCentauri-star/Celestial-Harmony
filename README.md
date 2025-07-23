@@ -42,7 +42,7 @@ Special Thanks for the loading screens, tips, science defs and localizations :
 - Soyuz
 - credit (for support)
 - vanilla (for some loading screens)
-- Omni Man for the System map
+- Omni-Man for the System map
 
 Thanks to Nerdy Boy for the Community Ressource Pack and Kerbalism configs !!
 
